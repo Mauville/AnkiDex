@@ -1,0 +1,10 @@
+﻿= AnkiDex
+
+The complete Pokedex up until gen 6.
+This deck is made for you to remember the names and types of all the Pokemon until Sun and Moon.
+There are also the cries and names in japanese, I have however disabled them to make reviewing faster.
+Beautiful card template included to increase reviewing pleasure.
+Designed with https://github.com/Mauville/AnkiDroid-Card-Preview[AnkiDroid-Card-Preview]
+
+image::https://github.com/Mauville/AnkiDroid-Card-Preview/blob/master/imagedir/demo8.png[]
+
